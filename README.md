@@ -1,6 +1,6 @@
 # Neural Network Anime Character Classifier
 
-Training a Neural Network model in Deep Learningto classify 7 anime charaters in Onepiece. 
+Training a Neural Network model in Deep Learning to classify 7 anime charaters in Onepiece. 
 
 
 **Mainly Used Library**
